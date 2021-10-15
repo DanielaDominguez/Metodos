@@ -44,5 +44,5 @@ public class Main {
     public static void alerta(String mensaje) {
         System.out.println(mensaje);
     }
-    
+
 }
